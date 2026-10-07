@@ -1,0 +1,9 @@
+/* Estilos personalizados adicionales */
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+/* Transiciones suaves */
+section {
+    transition: opacity 0.3s ease-in-out;
+}
